@@ -16,7 +16,7 @@ Backend
 
 Frontend
 
-``Express, Axios, Cors, Knex, Sqlite3 e Nodemon``
+``React-router-dom, React-icons``
 
 ### Instalando
 Usando npm
@@ -34,7 +34,7 @@ Usando npm
 ``$ npm install nodemon``
 
 
-``Usando yarn``
+Usando yarn
 
 ``$ yarn add axios``
 
