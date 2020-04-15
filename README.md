@@ -2,6 +2,8 @@
 
 Um projeto criado para ajudar ONGS com os seus casos de recuperação de animais machucados, doentes e etc...
 
+Remova a pasta .asdasd
+
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
