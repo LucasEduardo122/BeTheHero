@@ -10,88 +10,67 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 O que você precisa para instalar o software e como instalá-lo
 
-`` ``
 Backend
 
-Express, Axios, Cors, Knex, Sqlite3 e Nodemon
-`` ``
-`` ``
+``Express, Axios, Cors, Knex, Sqlite3 e Nodemon``
+
 Frontend
 
-Express, Axios, Cors, Knex, Sqlite3 e Nodemon
-`` ``
+``Express, Axios, Cors, Knex, Sqlite3 e Nodemon``
+
 ### Instalando
 Usando npm
-`` ``
-$ npm install axios
-`` ``
-`` ``
-$ npm install express
-`` ``
-`` ``
-$ npm install cors
-`` ``
-`` ``
-$ npm install knex
-`` ``
-`` ``
-$ npm install sqlite3
-`` ``
-`` ``
-$ npm install nodemon
-`` ``
 
-Usando yarn
-`` ``
-$ yarn add axios
-`` ``
-`` ``
-$ yarn add express
-`` ``
-`` ``
-$ yarn add cors
-`` ``
-`` ``
-$ yarn add knex
-`` ``
-`` ``
-$ yarn add sqlite3
-`` ``
-`` ``
-$ yarn add nodemon
-`` ``
+``$ npm install axios``
+
+``$ npm install express``
+
+``$ npm install cors``
+
+``$ npm install knex``
+
+``$ npm install sqlite3``
+
+``$ npm install nodemon``
+
+
+``Usando yarn``
+
+``$ yarn add axios``
+
+``$ yarn add express``
+
+``$ yarn add cors``
+
+``$ yarn add knex``
+
+``$ yarn add sqlite3``
+
+``$ yarn add nodemon``
+
 ## Exemplo
-`` ``
-const axios = require('axios')
-//adicionar a biblioteca do axios
-`` ``
-`` ``
-const express = require('express')
-//adicionar a biblioteca do express
-`` ``
-`` ``
-const cors = require('cors')
-//adicionar a biblioteca do cors
-`` ``
+
+``const axios = require('axios') //adicionar a biblioteca do axios``
+
+``const express = require('express') //adicionar a biblioteca do express``
+
+
+``const cors = require('cors') //adicionar a biblioteca do cors``
+
 
 Usando API (React)
-`` ``
-import axios from 'axios';
 
-const App = axios.create({ baseURL: 'http://localhost:3333'});
-`` ``
+``import axios from 'axios'; const App = axios.create({ baseURL: 'http://localhost:3333'});``
+
 Usando Express(Node)
 
-`` ``
-//chama a biblioteca express
-const express = require('express');
 
-//instancia a biblioteca do express
-const app = express();
+``//chama a biblioteca express -> const express = require('express');``
 
-//ativa o servidor na porta 3333
-app.listen(3333);
-`` ``
+``//instancia a biblioteca do express -> const app = express();``
+
+``//ativa o servidor na porta 3333 app.listen(3333);``
+
 
 ## Construído com
 
