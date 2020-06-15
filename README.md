@@ -85,8 +85,9 @@ Usando Express(Node)
 ## Construído com
 
 * [JavaScript] (https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript) - A estrutura da web usada
-* [NodeJS] (https://nodejs.org/en/docs/) - Base de Dados
-* [ReactJS] (https://pt-br.reactjs.org/docs/getting-started.html) - Biblioteca JavaScript
+* [NodeJS] (https://nodejs.org/en/docs/) - Backend
+* [ReactJS] (https://pt-br.reactjs.org/docs/getting-started.html) - Biblioteca JavaScript - FrontEnd
+* [Sqlite3 Knex] - (http://knexjs.org/) - Base de dados
 
 ## Contribuindo
 
