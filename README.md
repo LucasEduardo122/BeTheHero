@@ -96,4 +96,4 @@ Leia [CONTRIBUTING.md] (https://github.com/LucasEduardo122) para obter detalhes 
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/LucasEduardo122)
+* ** Lucas Eduardo ** - * Trabalho inicial * - [LucasEduardo122] (https://github.com/LucasEduardo122)
