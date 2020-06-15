@@ -3,6 +3,14 @@
 Um projeto criado para ajudar ONGS com os seus casos de recuperação de animais machucados, doentes e etc...
 
 Remova a pasta .asdasd
+# Imagens
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/722182728233123890/Screenshot_9.jpg?width=890&height=407)
+
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/722182736416342016/Screenshot_10.jpg?width=886&height=407)
+
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/722182737582227556/Screenshot_11.jpg?width=883&height=406)
+
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/722182740694401094/Screenshot_12.jpg?width=880&height=406)
 
 ## Começando
 
